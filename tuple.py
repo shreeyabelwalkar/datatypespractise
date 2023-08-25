@@ -1,0 +1,6 @@
+tpl=(10,23,-56,24.56,"Sharvee","Vinay")
+print(tpl)
+print(tpl[0])
+print(tpl[1:3])
+print(tpl[-2])
+print(tpl*3)
